@@ -56,10 +56,11 @@ ${sequenceTemplate}
 ${generate_sequence()}
 
 
-🚨 Fonction uniquement sur le cette platform 1win ci-dessous!👇
+🚨 Fonction uniquement sur le cette platform 1win ci-dessous!
+👇👇👇👇👇
 [S'inscrire](https://bit.ly/3NJ4vy0)
 
-[GUIDE](Solkah.org/1win)
+[GUIDE](https://telegra.ph/Tuto-mine-04-13)
 `;
 
   // Options du clavier inline
