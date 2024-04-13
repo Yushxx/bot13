@@ -56,7 +56,7 @@ ${sequenceTemplate}
 ${generate_sequence()}
 
 
-🚨 Fonction uniquement sur le cette platform 1win ci-dessous!
+🚨 Fonction uniquement sur le cette platform ci-dessous!
 👇👇👇👇👇
 [S'inscrire](https://bit.ly/3NJ4vy0)
 
