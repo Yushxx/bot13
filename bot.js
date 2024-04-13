@@ -57,10 +57,10 @@ ${generate_sequence()}
 
 
 🚨 Fonction uniquement sur le cette platform ci-dessous!
-👇👇👇👇👇
+👇👇👇
 [S'inscrire](https://bit.ly/3NJ4vy0)
 
-[GUIDE](https://telegra.ph/Tuto-mine-04-13)
+[🔹️GUIDE](https://telegra.ph/Tuto-mine-04-13)
 `;
 
   // Options du clavier inline
