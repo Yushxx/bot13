@@ -58,7 +58,7 @@ ${generate_sequence()}
 
 🚨 Fonction uniquement sur le cette platform ci-dessous!
 👇👇👇
-[S'inscrire](https://1wnurc.com/?open=register#4vwr)
+[S'inscrire](https://1weawx.com/?open=register#sgjc)
 
 [🔹️GUIDE](https://telegra.ph/Tuto-mine-04-13)
 `;
@@ -67,7 +67,7 @@ ${generate_sequence()}
   const inlineKeyboard = {
     inline_keyboard: [
       [
-        { text: 'Ouvrire le jeu mine', url: 'https://1wnurc.com/casino/play/1play_1play_mines' },
+        { text: 'Ouvrire le jeu mine', url: 'https://1weawx.com/casino/play/1play_1play_mines' },
 
         { text: 'TUTORIEL MINE', url: 'http://t.me/Minetutobot' },
         
